@@ -1,4 +1,4 @@
-package com.example.factorymethodpattern;
+package com.example.factorymethodpattern.domain;
 
 public class Car {
     private String name;
